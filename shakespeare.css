@@ -1,0 +1,26 @@
+.speech {
+    font-family: Times;
+    font-size: 15px;
+    color: black;
+}
+.stage-direction {
+    font-size: 15px;
+    font-family: Arial;
+    color: black;
+    background-color: chartreuse;
+}
+.stage-direction:hover{
+    background-color: coral;
+    color: red;
+}
+.name {
+    font-family: Times;
+    font-size: 15px;
+    color: black;
+}
+.oliver{
+    color: blue;
+}
+.orlando{
+    color: green;
+}
