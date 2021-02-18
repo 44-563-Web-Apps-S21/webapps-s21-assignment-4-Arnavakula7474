@@ -38,3 +38,8 @@ table{
     width: 40%;
     border-collapse: collapse;
 }
+.name:hover{
+    color: blue;
+    border-style: groove;
+    text-shadow: 2px 2px #ff0000;
+}
